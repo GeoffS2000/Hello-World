@@ -50,3 +50,5 @@ duplicate all of the original copyright notices and associated disclaimers.
 
 4. Add point 4 to it.
 
+5. Add point 5 to it.
+
