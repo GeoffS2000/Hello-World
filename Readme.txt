@@ -7,3 +7,4 @@ Syntax to use:
 3. Type: cscript Rename.vbs
 4. Watch output
 5. You should see changes
+6. If you don't see changes something went wrong
