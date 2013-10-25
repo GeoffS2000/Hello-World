@@ -1,3 +1,5 @@
+// 10/25/2013   Notes by Geoff
+
 Syntax to use:
 
 1. Open DOS shell
