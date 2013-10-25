@@ -44,3 +44,5 @@ Definitions:
 Standard Version of this Package without restriction, provided that you
 duplicate all of the original copyright notices and associated disclaimers.
 
+2. This is completely ridiculous.
+
